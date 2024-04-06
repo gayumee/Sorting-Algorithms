@@ -48,7 +48,6 @@ arr = eval(input())
 insertion_sort(arr)
 print(arr)
 ```
-
 ## Output:
 ```
 i)	#Selection Sort
