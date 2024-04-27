@@ -49,14 +49,8 @@ insertion_sort(arr)
 print(arr)
 ```
 ## Output:
-```
-i)	#Selection Sort
-[12, 34, 7, 45, 86, 8]
-[7, 8, 12, 34, 45, 86]
+![image](https://github.com/gayumee/Sorting-Algorithms/assets/149037327/577719c8-4360-4dd1-abf4-25114d4cd36a)
+![image](https://github.com/gayumee/Sorting-Algorithms/assets/149037327/67161ebd-9fdd-4089-bf77-6a404be0b8aa)
 
-ii)	#Insertion Sort
-[9, 12, 5, 8, 16, 4]
-[4, 5, 8, 9, 12, 16]
-```
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.
